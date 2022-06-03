@@ -31,6 +31,16 @@ git init                    //Para iniciar el repositorio
 git add .                   //Para pasar los cambios al staging area
 git commit -m "comentario"  //Para commitear y preparar los cambios para la subida
 git push                    //Para subir los commits hacia el remoto
-git 
+git status                  //Para saber el estado del repositorio
+git pull                    //Para recoger los cambios realizados en remoto
+git rm                      //Para borrar los cambios realizados
+git clone <repo>            //Para clonar un repositorio ya creado.
+git branch                  //Para listar crear o borrar ramas
+git help                    //Para ver los comandos existentes de git
+
+//Comandos para la primera configuración
+
+git config --global user.name "nombre"  //Añadir el nombre
+git config --global user.email "email"  //ñadir el correo
 
 ```
