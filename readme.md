@@ -22,10 +22,15 @@ git commit -m "primer commit"
 git push 
 ```
 
-# RESUMEN COMANDOS DE GIT  Y APRENDIDOS
+# RESUMEN COMANDOS DE GIT APRENDIDOS
 
 ## Recogida de los comandos de git aprendidos
 
 ```
+git init                    //Para iniciar el repositorio
+git add .                   //Para pasar los cambios al staging area
+git commit -m "comentario"  //Para commitear y preparar los cambios para la subida
+git push                    //Para subir los commits hacia el remoto
+git 
 
 ```
