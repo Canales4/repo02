@@ -36,6 +36,7 @@ git pull                    //Para recoger los cambios realizados en remoto
 git rm                      //Para borrar los cambios realizados
 git clone <repo>            //Para clonar un repositorio ya creado.
 git branch                  //Para listar crear o borrar ramas
+git remote add origin url   //Para subir el proyecto por primera vez al repositorio
 git help                    //Para ver los comandos existentes de git
 
 //Comandos para la primera configuración
